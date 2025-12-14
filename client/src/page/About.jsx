@@ -25,9 +25,6 @@ export default function AboutPage() {
               <strong>Database:</strong> MongoDB for storing post metadata
             </li>
             <li>
-              <strong>API Integration:</strong> OpenAI API for additional AI capabilities
-            </li>
-            <li>
               <strong>Styling:</strong> Tailwind CSS
             </li>
           </ul>
