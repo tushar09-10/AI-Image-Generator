@@ -1,8 +1,7 @@
 # AI Image Generator App
 
 Welcome to my AI Image Generator App! This project combines the power of AI with a user-friendly interface to create and share unique images.
-## Demo
-![demo](./client/src/assets/demo.gif)
+
 
 ## Features
 
